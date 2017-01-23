@@ -1,2 +1,6 @@
 # burner-email-providers
-List of Service Providers of Burner Email Addresses
+A list of common domains and service providers, that provide burner or disposable email addresses. This list was started to provide an easy way to import these domains into any project that you wish to help combat spam.
+
+#File Formats
+* Plain Text
+* CSV (Comma Separated Value)
